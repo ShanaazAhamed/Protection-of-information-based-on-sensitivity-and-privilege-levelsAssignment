@@ -1,0 +1,1 @@
+roles = {1:"patient",2:"hospital_assistant",3:"Pharmacist",4:"doctor"}
